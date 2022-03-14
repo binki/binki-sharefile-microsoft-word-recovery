@@ -36,7 +36,7 @@ The URI will look like:
 If the error dialog is detected in the document, then the `«document-id»` is extracted from the `WOPISrc` GET parameter and `«tenant-name»` is extracted from the `x-sharefile-tenant` GET parameter.
 These are interpolated into `https://«tenant-name».sharefile.com/e/«document-id»` and then the browser is navigated to this URI.
 
-If that value is not present, it may be stil possible to prompt the user for the correct value.
+If that value is not present, it may be still possible to prompt the user for the correct value.
 This functionality is not implemented yet.
 
 ## Installation
