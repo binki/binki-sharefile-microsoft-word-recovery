@@ -42,3 +42,7 @@ This functionality is not implemented yet.
 ## Installation
 
 [Install](binki-sharefile-microsoft-word-recovery.user.js?raw=1)
+
+## See Also
+
+* [binki-microsoft-word-document-title](https://github.com/binki/binki-microsoft-word-document-title): Update the browser title with the document’s title to allow switching to that tab and searching browser history by document name.
